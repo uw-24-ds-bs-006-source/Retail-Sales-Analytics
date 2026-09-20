@@ -200,6 +200,7 @@ The Overview page provides a high-level view of business performance through:
 - Top 5 Customers
 ![Executive Overview](dashboard_page1_overview.png)
 
+
 #### 2. Products
 
 The Products page focuses on product-level performance:
@@ -211,6 +212,7 @@ The Products page focuses on product-level performance:
 - Category filtering
 ![Product Performance](dashboard_page2_overview.png)
 
+
 #### 3. Regional
 
 The Regional page focuses on geographic performance:
@@ -221,6 +223,7 @@ The Regional page focuses on geographic performance:
 - Total Orders
 - Profit Margin %
 ![Regional Performance](dashboard_page3_overview.png)
+
 
 ### Core Power BI Measures
 
