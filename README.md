@@ -260,7 +260,7 @@ The discount-band analysis produced an unexpected pattern in this dataset: highe
 
 | Discount Band | Revenue | Profit Margin |
 |---|---:|---:|
-| No Discount | $1,599,508 | 9.20% |
+| No Discount | $1,592,508 | 9.20% |
 | Low (1–15%) | $1,038,820 | 9.70% |
 | Medium (16–25%) | $484,445 | 10.37% |
 | High (26%+) | $457,816 | 12.24% |
